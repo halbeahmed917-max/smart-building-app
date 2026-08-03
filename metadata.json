@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة المباني والوحدات الذكية",
+  "description": "منظومة متكاملة لإدارة المباني والوحدات الذكية، التحكم بالأجهزة، الفواتير، التشفير الشامل E2EE، سياسات الدخول Zero-Trust، وسجلات التدقيق المشفرة Audit Logs",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
